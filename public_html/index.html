@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<a href="../../../bootstrap-4.0.0/bootstrap-4.0.0/_includes/docs-sidebar.html"></a>
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script>
+            $(function () {
+                $("#navbar").load("navbar.html");
+                $("#sidebar").load("sidebar.html");
+            });
+        </script> 
+        <link href="css/mystyle.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body style="background-image: url(img/bgindex.jpg)">
+        <!--Navbar-->
+        <div id="navbar"></div>
+        <!--End of NavBar-->
+
+        <!--Banner-->
+        <div class="jumbotron primary-background jumbotron-dark">
+            <h1 class="display-4">Hello!</h1>
+            <p class="lead">We provide a wide range of products on Our Site.We are delighted to That you are here!</p>
+            <hr class="my-4">
+            <p>You are free to see the specifications and data about our products .Provide us with your Valuable feedback on below Button.</p>
+            <p class="lead">
+                <a class="btn btn-primary btn-lg" href="#" role="button">Contact Us</a>
+            </p>
+        </div></div
+    <!--End of Banner-->
+
+    <!--cards-->
+    <div class="row" style="margin-top:20px;">
+        <div class="col-md-3">
+            <div id="sidebar"></div>
+        </div>
+        <div class="col-md-4">
+            <div class="card item" style="width: 25rem;margin-left:20px;">
+                <img class="card-img-top" src="img/lenovothinkpad.jpg" alt="Lenovo Thinkapad">
+                <div class="card-body primary-background">
+                    <h5 class="card-title">Lenovo Thinkpad</h5>
+                    <p class="card-text">Latest Laptop released by Lenovo in midrange with great specs </p>
+                    <a href="productpage.html" class="btn btn-primary">Check Now</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 item">
+            <div class="card" style="width:25rem;">
+                <img class="card-img-top" src="img/dellinspiron.jpg" alt="Dell Inspiron">
+                <div class="card-body primary-background">
+                    <h5 class="card-title">Dell Inspiron</h5>
+                    <p class="card-text">Latest release by Dell with touch capablity with the latest intel-7th Gen power.</p>
+                    <a href="productpage.html" class="btn btn-primary">Check Now</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!--End of Cards-->
+</body>
+</html>

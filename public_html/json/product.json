@@ -1,0 +1,66 @@
+{
+    "product":[
+    {
+        "name":"Lenovo Thinkpad",
+        "details":"Lenovo Thinkpad 14-Inch Laptop (i7-4510U, 6 GB, 1 TB, Windows 8, 2 GB Graphics, With Bag) ",
+        "price":"",
+         "image":"img/lenovothinkpad.jpg"
+    },
+    
+    {
+        "name":"Dell Inspiron",
+        "details":"Dell Inspiron 3585 15.6-inch FHD Laptop (AMD Ryzen R5-2500U/8GB/512GB SSD/Win 10 + MS Office/Vega 8 Graphics/Silver) D560201WIN9S ",
+        "price":"",
+         "image":"img/dellinspiron.jpg"
+    },
+    {
+        "name":"Dell Vostros",
+        "details":"Dell Vostro 3590 15.6-inch FHD Laptop (10th Gen Core i3-10110U/4GB/1TB HDD/Windows 10 + MS Office/Intel HD Graphics), Black",
+        "price":"",
+         "image":"img/dellvistro.jpg"
+    },
+    {
+        "name":"HP 15s",
+        "details":"HP 15s du2069TU 15.6-inch Laptop (10th Gen i3-1005G1/4GB/1TB/Windows 10 Home/Integrated Graphics), Silver ",
+        "price":"",
+         "image":"img/hp15s.jpg"
+    },
+    {
+        "name":"Acer Chromebook",
+        "details":"Acer Chromebook 315, AMD Dual-Core A4-9120C Processor, 15.6 Full HD, AMD Radeon R4 Graphics, 4GB DDR4, 32GB eMMC, Google Chrome, jet black, CB315-2H-455L ",
+        "price":"",
+         "image":"img/acerchromebook.jpg"
+    },
+    {
+        "name":"Dell Inspiron 3493",
+        "details":"Dell Inspiron 3493 14-inch FHD Laptop (10th Gen Ci5-1035G1/8GB/1TB HDD/Win 10 + MS Office/Intel HD Graphics/Silver) E-C560511WIN9 ",
+        "price":"",
+         "image":"img/dell.jpg"
+    },
+    {
+        "name":"MI Notebook",
+        "details":"Mi Notebook 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/256GB SSD/Windows 10/Intel UHD Graphics/Silver/1.5Kg), XMA1901-FC+Webcam",
+        "price":"",
+         "image":"img/minotebook.png"
+    },
+    {
+        "name":"Microsoft Surface",
+        "details":"Microsoft Surface GO 2 STQ-00013 10.1-inch Laptop (Gold Processor 4425Y/8GB/128GB SSD/Windows 10 Home in S Mode/Intel UHD 615 Graphics), Platinum",
+        "price":"",
+         "image":"img/mssurface.jpg"
+    },
+    {
+        "name":"",
+        "details":"",
+        "price":"",
+         "image":""
+    },
+    {
+        "name":"",
+        "details":"",
+        "price":"",
+         "image":""
+    }
+    
+    ]
+}
